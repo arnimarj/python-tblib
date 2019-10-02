@@ -33,7 +33,7 @@ Overview
 
 .. |coveralls| image:: https://coveralls.io/repos/ionelmc/python-tblib/badge.svg?branch=master&service=github
     :alt: Coverage Status
-    :target: https://coveralls.io/r/ionelmc/python-tblib
+    :target: https://coveralls.io/github/ionelmc/python-tblib
 
 .. |codecov| image:: https://codecov.io/github/ionelmc/python-tblib/coverage.svg?branch=master
     :alt: Coverage Status
@@ -622,4 +622,4 @@ Clearing traceback works (Python 3.4 and up)::
 Credits
 =======
 
-* `mitsuhiko/jinja2 <https://github.com/mitsuhiko/jinja2>`_ for figuring a way to create traceback objects.
+* `pallets/jinja2 <https://github.com/pallets/jinja>`_ for figuring a way to create traceback objects.
