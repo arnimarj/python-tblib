@@ -4,9 +4,9 @@ import sys
 import six
 import pytest
 pytest.importorskip('twisted')
-from twisted.python.failure import Failure
+from twisted.python.failure import Failure  # noqa: F402
 
-from tblib import pickling_support
+from tblib import pickling_support  # noqa: F402
 
 
 def test_30():
